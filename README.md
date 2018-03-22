@@ -1,4 +1,4 @@
-# Adldap_demo
+# Laravel LDAP Demo
 Simple LDAP demo using Adldap with Laravel
 This project is built based on https://github.com/jotaelesalinas/laravel-simple-ldap-auth . It's for learning purpose only, but feel free to pull or add any features.
 
